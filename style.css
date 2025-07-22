@@ -1,5 +1,7 @@
 body {
     font-family: Arial, sans-serif;
+    background-color: khaki;
+
 }
 
 h1 {
@@ -13,7 +15,7 @@ h1 {
 
 h2 {
     color: white;
-    font-size: 45px;
+    font-size: 50px;
     margin-left : 40px;
     background-color : deepskyblue;
     padding: 40px;
@@ -30,7 +32,7 @@ button {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 40px;
+    font-size: 45px;
     margin: 4px 2px;
     cursor: pointer;
     margin-left: 40px;
